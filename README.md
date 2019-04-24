@@ -36,6 +36,10 @@ If your host system supports it, and you run the container with the `--privilege
 
 A minimalistic approach to solving the problem of keeping shell scripts up-to-date with documentation and `--help` output.
 
+### [cd-ci-glue](https://github.com/madworx/cd-ci-glue)
+
+Small collection of shell-script functions to interact with Travis CI, Docker Hub and Github pages/wikis.
+
 ### [maven-github-releases](https://github.com/madworx/maven-github-releases)
 
 Using your local Apache web server to act as a Maven repository.
